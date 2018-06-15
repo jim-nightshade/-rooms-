@@ -2,6 +2,10 @@ import random
 
 class Map:
     def __init__(self):
+        '''
+        self.path - players path through the rooms
+                    written to txt file
+        '''
         self.path = []
 
     def stuff_generator(self):
