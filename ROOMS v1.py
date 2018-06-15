@@ -9,6 +9,12 @@ class Map:
         self.path = []
 
     def stuff_generator(self):
+        '''
+        _____
+        stuff & artifacts generator
+        _______________________________________________
+        randomly generated things player finds in rooms
+        '''
         stuff_names = ['sword', 'stuff', 'rock', 'gold', 'crown', 'artifact', 'tobacco', 'silver', 'old book', 'python tutorial', 'lantern']
         stuff_list = []
         for i in range(random.randint(1,6)):
