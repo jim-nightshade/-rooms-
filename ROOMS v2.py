@@ -12,7 +12,7 @@ class Map:
         return stuff_list
     def room_generator(self):
         room_list = []
-        for i in range(3):
+        for i in range(6):
             room_list.append(Room(i + 1 , self.stuff_generator()))
         return room_list
 
