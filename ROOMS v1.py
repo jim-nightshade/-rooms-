@@ -2,6 +2,10 @@ import random
 
 class Map:
     def __init__(self):
+        '''
+        self.path - players path through the rooms
+                    written to txt file
+        '''
         self.path = []
 
     def stuff_generator(self):
@@ -70,6 +74,10 @@ class Player:
         print ()
         
 def main(game, player):
+    '''
+    DOCSTRINGS: updated soon
+    '''
+    
     rooms = game.room_generator()
     while rooms:
         x = random.randint(0, len(rooms)-1)
