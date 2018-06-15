@@ -6,3 +6,5 @@ main features:
 .exploring rooms
 .collecting gold, equipment and artifacts
 .top score
+.top score 'save' option
+.'python tutorial' artifact
