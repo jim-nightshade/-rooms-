@@ -8,3 +8,6 @@ main features:
 .top score
 .top score 'save' option
 .'python tutorial' artifact
+
+FROM MUM
+'Kocham Cie Moj Synku'
