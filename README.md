@@ -1,4 +1,4 @@
-[rooms]
+[rooms] version 2
 
 simple text based rpg game
 
