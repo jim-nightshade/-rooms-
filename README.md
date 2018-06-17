@@ -1,4 +1,4 @@
-[rooms]
+[rooms] version 2
 
 simple text based rpg game
 
@@ -8,3 +8,6 @@ main features:
 .top score
 .top score 'save' option
 .'python tutorial' artifact
+
+FROM MUM
+'Kocham Cie Moj Synku'
